@@ -1,7 +1,5 @@
 ## ZHONG Yuan - A Postgraduate Student of LL.M. in Tokyo, Japan
 
-## Intro
-
 A 22-year-old postgraduate student from China with cross-cultural vision and passion to explore the unknown.
 
 Here is [My Facebook](https://Facebook.com/ZHONG.Yuan.ZHMUN/) and [personal blog in Chinese](https://www.kobayashi-lab.org/).
