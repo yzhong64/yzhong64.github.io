@@ -1,4 +1,6 @@
-## ZHONG Yuan - A Postgraduate Student of LL.M. in Tokyo, Japan
+---
+layout: default
+---
 
 A 22-year-old postgraduate student from China with cross-cultural vision and passion to explore the unknown.
 
